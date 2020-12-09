@@ -1,1 +1,3 @@
 # calculadora-de-presupuesto
+
+una simple y practica app para calcular gastos nada mas.....
